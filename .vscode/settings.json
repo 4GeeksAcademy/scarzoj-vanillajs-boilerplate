@@ -1,0 +1,13 @@
+{
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "files.autoSave": "off",
+  "editor.tabSize": 2,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.root": "src/",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}

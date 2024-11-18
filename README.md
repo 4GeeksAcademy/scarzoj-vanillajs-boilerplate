@@ -1,1 +1,1 @@
-# scarzoj-vanillajs-boilerplate
+# VanillaJS Boilerplate
